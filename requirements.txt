@@ -1,0 +1,14 @@
+opencv-python
+python-math
+random2
+numpy
+DateTime
+tensorflow
+collection
+scikit-learn
+Werkzeug
+moviepy
+imageio==2.4.1
+flask
+matplotlib
+
